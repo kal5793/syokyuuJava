@@ -8,6 +8,7 @@ public class RectIf extends MyFrame
 		int i;
 		for(i=0;i<9;i++) 
 		{
+			setColor(x,x,x);
 			fillRect(x,80,10,x);
 			x+=20;
 		}
