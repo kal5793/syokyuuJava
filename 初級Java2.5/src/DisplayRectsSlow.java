@@ -7,7 +7,7 @@ public class DisplayRectsSlow extends MyFrame
 		int x=30;
 		while(x<=170) 
 		{
-			fillRect(x,x,10,100);
+			fillRect(x,80,10,100);
 			x+=20;
 			sleep(1);
 		}
