@@ -9,7 +9,7 @@ public class RectIf extends MyFrame
 		for(i=0;i<9;i++) 
 		{
 			
-			fillRect(x,x,10,100);
+			fillRect(x,80,10,x);
 			
 			 
 			
